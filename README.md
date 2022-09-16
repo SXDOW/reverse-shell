@@ -9,3 +9,5 @@ Mayabe the server doesnt support the newest version of the mod and you wont be a
 If you done this just open Curse Forge and select the Modpack. Its important that youre using the same mods with the same version as the server. not more not less
 
 Have fun
+
+(if the server told you you have the wrong version it should print the version you have to install. just install it and paste it on your Modpack in Curse Forge (delete the old mod that isnt supported and then paste the new one))

@@ -6,6 +6,6 @@ If you want to play with mods its better to install Curse Forge and login into y
 If you want to create a Server with Mods in it just use the Forge client. You can select it while you create the MC server on ploudos.
 Mayabe the server doesnt support the newest version of the mod and you wont be able to play on your server, thats why you should download the mods and upload it to the server.
 
-If you done this just open Curse Forge and select the Modpack. Its important that youre using the same mods as the server. not more not less
+If you done this just open Curse Forge and select the Modpack. Its important that youre using the same mods with the same version as the server. not more not less
 
 Have fun
